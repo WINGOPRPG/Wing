@@ -1,0 +1,106 @@
+ .player1 {
+   width: 500px;
+   heigth: 400px;
+   min-width:500px;
+   min-height:400px;
+   background-image: url(https://i.imgur.com/FBqcWWF.png);
+   position: relative;
+   visibility: visible;
+        -webkit-transition: all 1s ease;
+   -o-transition: all 1s ease;
+   -moz-transition: all 1s ease;
+   z-index: 1;
+ }
+ 
+
+ 
+ .player1:hover {
+   width: 500px;
+   heigth: 400px;
+   min-width:500px;
+   min-height:400px;
+   background-image: url(https://i.imgur.com/GmeoLbZ.png);
+   position: relative;
+   z-index: 1;
+ }
+
+
+ .player2 {
+   width: 500px;
+   heigth: 400px;
+   min-width:500px;
+   min-height:400px;
+   background-image: url(https://i.imgur.com/0S5eTJe.png);
+   position: relative;
+   visibility: visible;
+          -webkit-transition: all 1s ease;
+   -o-transition: all 1s ease;
+   -moz-transition: all 1s ease;
+   z-index: 1;
+ }
+ 
+
+ 
+ .player2:hover {
+   width: 500px;
+   heigth: 400px;
+   min-width:500px;
+   min-height:400px;
+   background-image: url(https://i.imgur.com/hPZmfDw.png);
+   position: relative;
+   z-index: 1;
+ }
+
+
+ .player3 {
+   width: 500px;
+   heigth: 400px;
+   min-width:500px;
+   min-height:400px;
+   background-image: url(https://i.imgur.com/Sz65OZQ.png);
+   position: relative;
+   visibility: visible;
+        -webkit-transition: all 1s ease;
+   -o-transition: all 1s ease;
+   -moz-transition: all 1s ease;
+   z-index: 1;
+ }
+ 
+
+ 
+ .player3:hover {
+   width: 500px;
+   heigth: 400px;
+   min-width:500px;
+   min-height:400px;
+   background-image: url(https://i.imgur.com/ESFUn8t.png);
+   position: relative;
+   z-index: 1;
+ }
+
+
+ .player4 {
+   width: 500px;
+   heigth: 400px;
+   min-width:500px;
+   min-height:400px;
+   background-image: url(https://i.imgur.com/VaO9r0E.png);
+   position: relative;
+   visibility: visible;
+          -webkit-transition: all 1s ease;
+   -o-transition: all 1s ease;
+   -moz-transition: all 1s ease;
+   z-index: 1;
+ }
+ 
+
+ 
+ .player4:hover {
+   width: 500px;
+   heigth: 400px;
+   min-width:500px;
+   min-height:400px;
+   background-image: url(https://i.imgur.com/aMwhYOB.png);
+   position: relative;
+   z-index: 1;
+ }
