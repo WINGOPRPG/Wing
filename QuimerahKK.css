@@ -1,0 +1,79 @@
+ .player1 {
+   width: 603px;
+   heigth: 265px;
+   min-width:603px;
+   min-height:265px;
+   background-image: url(https://i.imgur.com/bfvC26h.png);
+   position: relative;
+   visibility: visible;
+        -webkit-transition: all 1s ease;
+   -o-transition: all 1s ease;
+   -moz-transition: all 1s ease;
+   z-index: 1;
+ }
+ 
+
+ 
+ .player1:hover {
+   width: 603px;
+   heigth: 265px;
+   min-width:603px;
+   min-height:265px;
+   background-image: url(https://i.imgur.com/YTBLX72.png);
+   position: relative;
+   z-index: 1;
+ }
+
+
+ .player2 {
+   width: 603px;
+   heigth: 265px;
+   min-width:603px;
+   min-height:265px;
+   background-image: url(https://i.imgur.com/N0t0sFi.png);
+   position: relative;
+   visibility: visible;
+          -webkit-transition: all 1s ease;
+   -o-transition: all 1s ease;
+   -moz-transition: all 1s ease;
+   z-index: 1;
+ }
+ 
+
+ 
+ .player2:hover {
+   width: 603px;
+   heigth: 265px;
+   min-width:603px;
+   min-height:265px;
+   background-image: url(https://i.imgur.com/k6gknfx.png);
+   position: relative;
+   z-index: 1;
+ }
+
+
+ .player3 {
+   width: 603px;
+   heigth: 265px;
+   min-width:603px;
+   min-height:265px;
+   background-image: url(https://i.imgur.com/FF3sa9l.png);
+   position: relative;
+   visibility: visible;
+        -webkit-transition: all 1s ease;
+   -o-transition: all 1s ease;
+   -moz-transition: all 1s ease;
+   z-index: 1;
+ }
+ 
+
+ 
+ .player3:hover {
+   width: 603px;
+   heigth: 265px;
+   min-width:603px;
+   min-height:265px;
+   background-image: url(https://i.imgur.com/ptwTy6j.png);
+   position: relative;
+   z-index: 1;
+ }
