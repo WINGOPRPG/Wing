@@ -94,7 +94,19 @@
  }
  
 
-  .player5 {
+ 
+ .player4:hover {
+   width: 603px;
+   heigth: 265px;
+   min-width:603px;
+   min-height:265px;
+   background-image: url(https://i.imgur.com/qLFN0M0.png);
+   position: relative;
+   z-index: 1;
+ }
+
+
+ .player5 {
    width: 603px;
    heigth: 265px;
    min-width:603px;
@@ -102,9 +114,21 @@
    background-image: url(https://i.imgur.com/fhoXlpV.png);
    position: relative;
    visibility: visible;
-        -webkit-transition: all 1s ease;
+          -webkit-transition: all 1s ease;
    -o-transition: all 1s ease;
    -moz-transition: all 1s ease;
+   z-index: 1;
+ }
+ 
+
+ 
+ .player5:hover {
+   width: 603px;
+   heigth: 265px;
+   min-width:603px;
+   min-height:265px;
+   background-image: url(https://i.imgur.com/HdJ7SY2.png);
+   position: relative;
    z-index: 1;
  }
 
@@ -120,5 +144,17 @@
         -webkit-transition: all 1s ease;
    -o-transition: all 1s ease;
    -moz-transition: all 1s ease;
+   z-index: 1;
+ }
+ 
+
+ 
+ .player6:hover {
+   width: 603px;
+   heigth: 265px;
+   min-width:603px;
+   min-height:265px;
+   background-image: url(https://i.imgur.com/oqaxrK6.png);
+   position: relative;
    z-index: 1;
  }
